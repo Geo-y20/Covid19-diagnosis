@@ -1,5 +1,5 @@
-# NagyScan
-NagyScan is a comprehensive platform designed to help doctors diagnose Covid-19 from X-ray images using a deployed machine learning model.
+# Covid19 diagnosis
+Covid19 diagnosis is a comprehensive platform designed to help doctors diagnose Covid-19 from X-ray images using a deployed machine learning model.
 The website features a range of pages and tools, including a login page for patients and doctors, a results page for patients, and a page for doctors to upload photos and X-rays, access patient information and medical histories, and receive diagnoses from the machine learning model.
 
 <h2>Features</h2>
@@ -13,7 +13,7 @@ The website features a range of pages and tools, including a login page for pati
 </ul>
 
 <h2>Installation</h2> 
-To install NagyScan:  
+To install Covid19 diagnosis:  
 <ol>
 <li>Clone the repository.</li>
 <li>Install the required dependencies with the command: npm install </li>
